@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: njthwb40k-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/njthwb40k-python
